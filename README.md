@@ -1,3 +1,3 @@
 # NewProject
 new start project
-<h1>KD`S DEVLOPER</h1>
+<h1>KD`S DEVLOPER Heavy bar</h1>
